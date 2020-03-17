@@ -1,0 +1,6 @@
+C:\Personal\20200309_BNP\C_Sharp_Test\C_Sharp_Test\bin\Debug\C_Sharp_Test.exe.config
+C:\Personal\20200309_BNP\C_Sharp_Test\C_Sharp_Test\obj\Debug\C_Sharp_Test.csprojResolveAssemblyReference.cache
+C:\Personal\20200309_BNP\C_Sharp_Test\C_Sharp_Test\bin\Debug\C_Sharp_Test.exe
+C:\Personal\20200309_BNP\C_Sharp_Test\C_Sharp_Test\bin\Debug\C_Sharp_Test.pdb
+C:\Personal\20200309_BNP\C_Sharp_Test\C_Sharp_Test\obj\Debug\C_Sharp_Test.exe
+C:\Personal\20200309_BNP\C_Sharp_Test\C_Sharp_Test\obj\Debug\C_Sharp_Test.pdb
